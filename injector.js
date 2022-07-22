@@ -11,7 +11,7 @@ function randomYear() {
 }
 
 function randomHouseNumber() {
-  return Math.floor(Math.random() * (2000 - 1930 + 1) + 1930);
+  return Math.floor(Math.random() * (500 - 2 + 1) + 2);
 }
 
 function getRandom(items) {
